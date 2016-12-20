@@ -1,3 +1,4 @@
+##转自https://github.com/crazycodeboy/TakePhoto
 ## [TakePhoto](https://github.com/crazycodeboy/TakePhoto) 简介
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/TakePhoto/pulls)
